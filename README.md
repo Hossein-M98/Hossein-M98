@@ -5,7 +5,7 @@ My name is Hossein.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hossein.m9877)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hossein_98m)
 [![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/Hossein-M98)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=github&logoColor=white&color=black)](https://www.linkedin.com/in/hossein-m-a123451b5)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-m-a123451b5)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hossein.m9877@gmail.com)
 
 ## 🔧 Technologies & Tools
