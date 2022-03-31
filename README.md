@@ -17,6 +17,7 @@ My name is Hossein.
 
 ![Clang](https://img.shields.io/badge/Language-C-red)
 ![CPP](https://img.shields.io/badge/Language-C++-blue)
+![Python](https://img.shields.io/badge/Language-Python-yellow)
 
 ![Keil](https://img.shields.io/badge/Software-Keil%20uVision-orange)
 ![CubeIDE](https://img.shields.io/badge/Software-CubeIDE-lightblue)
